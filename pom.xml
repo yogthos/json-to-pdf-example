@@ -20,7 +20,7 @@
         <dependency>
             <groupId>json-to-pdf</groupId>
             <artifactId>json-to-pdf</artifactId>
-            <version>0.7.8</version>
+            <version>0.8.1</version>
         </dependency>
     </dependencies>
 
